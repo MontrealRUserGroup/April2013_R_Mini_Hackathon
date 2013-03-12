@@ -1,6 +1,6 @@
 Come hack with us!  We would love for you to propose data and a related question. Prize for best data and question!
 
-** Please upload a folder to this repository containing:**
+__Please upload a folder to this repository containing:__
 
 * a basic script to access the online data from R
   * (so that most of the time is spent playing with the data not scrapping/getting it into R)
