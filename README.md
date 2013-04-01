@@ -1,5 +1,7 @@
 Come hack with us!  We would love for you to propose data and a related question. Prize for best data and question!
 
+You can reach us by email at montrealrusergroup@gmail.com
+
 __Please upload a folder to this repository containing:__
 
 * a basic script to access the online data from R
