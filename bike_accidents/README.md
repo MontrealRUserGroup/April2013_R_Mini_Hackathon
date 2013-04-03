@@ -1,7 +1,7 @@
 Bicycle Accidents in Montreal 2006-2010
 =======================================
 
-Some data obtained and compiled by Roberta Rocha at the Montreal Gazette. I've done a visualization of this data which you can view [here](http://bayesianbiologist.com/2012/09/14/mapping-bike-accidents-in-r/).
+Some data obtained and compiled by Roberta Rocha at the Montreal Gazette. I've done a [visualization](http://bayesianbiologist.com/2012/09/14/mapping-bike-accidents-in-r/) of this data showing the accidents in time and space.
 
 Some questions we might ask of this data:
 
