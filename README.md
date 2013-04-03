@@ -15,3 +15,5 @@ __For downloading__
 * You can download the whole repository using the zip button (a cloud with an arrow and the word zip)
 * You can fork the repo and clone your branch to your computer
 * If you are on mack you can sync with the http://mac.github.com
+
+* To see PDFs click on their link and then click on "Raw"
